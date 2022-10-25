@@ -130,3 +130,9 @@ dmypy.json
 
 # VSCode files
 .vscode
+
+# MacOS files
+.DS_Store
+
+# students real exams
+student-exams
